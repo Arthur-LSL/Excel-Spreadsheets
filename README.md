@@ -1,0 +1,1 @@
+I worked on these excel spreadsheets during my internship in a design office. These spreadsheets helped me and my coworkers in computing and analysing data like the deflection of a beam, the bending moment of a floor or the shear stress inside a circular column under a certain load. 
